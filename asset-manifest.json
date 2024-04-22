@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ImageClassificationApp/static/css/main.1c819882.css",
-    "main.js": "/ImageClassificationApp/static/js/main.c281eff3.js",
+    "main.js": "/ImageClassificationApp/static/js/main.f10f6da4.js",
     "index.html": "/ImageClassificationApp/index.html",
     "main.1c819882.css.map": "/ImageClassificationApp/static/css/main.1c819882.css.map",
-    "main.c281eff3.js.map": "/ImageClassificationApp/static/js/main.c281eff3.js.map"
+    "main.f10f6da4.js.map": "/ImageClassificationApp/static/js/main.f10f6da4.js.map"
   },
   "entrypoints": [
     "static/css/main.1c819882.css",
-    "static/js/main.c281eff3.js"
+    "static/js/main.f10f6da4.js"
   ]
 }
